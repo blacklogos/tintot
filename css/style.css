@@ -7840,7 +7840,7 @@ code {
 }
 
 .icon {
-	position: fixed;
+	position: absolute;
 	fill: red;
 	margin-top: 100px;
 	margin-left: 100px;
